@@ -3,7 +3,7 @@
 
 ![S&C-Tracker](assets/logo.jpeg)
 
-# S&C-Tracker — Multi-market data aggregator for traders and investors
+# S&C-Tracker — Market data aggregator for traders and investors
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/snc-tracker/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
