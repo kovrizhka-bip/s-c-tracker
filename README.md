@@ -1,7 +1,7 @@
 # s-c-tracker
 
 
-![s-c-tracker](assets/logo.jpeg)
+![s-c-tracker](assets/logo.png)
 
 # S&C-Tracker — Рыночный агрегатор данных для трейдеров и инвесторов
 
