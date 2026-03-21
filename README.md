@@ -6,7 +6,6 @@
 # S&C-Tracker — Рыночный агрегатор данных для трейдеров и инвесторов
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/snc-tracker/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
 **Акции, криптовалюты. Реальное время, точные данные.**
