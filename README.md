@@ -1,86 +1,63 @@
 # s-c-tracker
 
 
-![S&C-Tracker](assets/logo.jpeg)
+![s-c-tracker](assets/logo.jpeg)
 
-# S&C-Tracker — Market data aggregator for traders and investors
+# S&C-Tracker — Рыночный агрегатор данных для трейдеров и инвесторов
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/snc-tracker/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
-**60+ liquidity sources. Stocks, crypto, derivatives. Real-time data, precision accuracy, institutional-grade reliability.**
+**Акции, криптовалюты. Реальное время, точные данные.**
 
 ---
 
-## 📌 Why S&C-Tracker?
+## 📌 Почему S&C-Tracker?
 
-S&C-Tracker was born from the chaos of fragmented data streams — named by traders who demand precision, speed, and absolute reliability.
-
-- **S&C** stands for **Stocks & Crypto** — the two dominant asset classes in today's market.
-- **Tracker** keeps your finger on the pulse — your unified command center.
-
-Under the hood, WASM kernels written in Rust power the aggregation engine, anomaly detection, and cross-market correlation system.
-
-- **15,000+** market pairs
-- **24/7/365** real-time monitoring
-- **Sub-second** data updates
-
-This is not just another dashboard.
+- **S&C** означает **Stocks & Crypto** — акции и криптовалюта.
+- **Tracker** в переводе отслеживатель, иными словами, это центр данных.
 
 ---
 
-## 🚀 Features
+## 🚀 Возможности
 
-| Feature | Description |
-|---------|-------------|
-| **Real-time price tracking** | Live updates for stocks, cryptocurrencies, and derivatives |
-| **Multi-source aggregation** | Data from 60+ liquidity sources and exchanges |
-| **Cross-market correlation** | Identify trends across different asset classes |
-| **Custom watchlists** | Create and manage personalized portfolios |
-| **Price alerts** | Get notified when assets hit your target levels |
-| **Historical data** | Access charts and historical price movements |
-| **No AI, no magic** | Just accurate, reliable data when you need it |
+| Функция | Описание |
+|---------|---------|
+| **Отслеживание цен в реальном времени** | Актуальные котировки акций, криптовалют |
+| **Агрегация из множества источников** | Данные ликвидности |
+| **Пользовательские списки наблюдения** | Создание персональных портфелей |
+| **Исторические данные** | Доступ к графикам и истории цен |
 
 ---
 
-## 📊 Supported Markets
+## 📊 Поддерживаемые рынки
 
-### Stocks
-- US equities (NYSE, NASDAQ)
-- European markets
-- Asian markets
+### Акции
+- pass
 
-### Cryptocurrencies
-- Bitcoin (BTC), Ethereum (ETH), and 200+ altcoins
-- Major exchanges: Binance, Coinbase, Kraken, Bybit
+### Криптовалюты
+- Bitcoin (BTC) и ??????
+- Крупнейшие биржи: ??????
 
-### Derivatives
-- Futures
-- Options
-- Perpetual swaps
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологический стек
 
-- **Core engine:** Rust with WASM
-- **Frontend:** [Your frontend stack, e.g., Tauri / Electron / React]
-- **Data aggregation:** Custom Rust-based pipeline
-- **Real-time updates:** WebSockets
-
+- **Ядро:** pass
+- **Фронтенд:** pass
+- **Агрегация данных:** pass
+- **Обновления в реальном времени:** pass
 ---
 
-## 📦 Installation
+## 📦 Установка
 
-### Prerequisites
-- [Your requirements, e.g., Node.js 18+, Rust 1.70+]
+### Системные требования
+-pass
 
-### From source
-```bash
-git clone https://github.com/yourusername/snc-tracker.git
-cd snc-tracker
-# Add build instructions here
+### Сборка из исходного кода
+pass
 
 
 
